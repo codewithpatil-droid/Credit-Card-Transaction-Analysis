@@ -10,12 +10,12 @@ Trend Analysis: Quarterly & Monthly Revenue
 Clean Corporate UI: Professional theme, consistent visuals, and modern layout
 Dynamic Measures: WOW, YTD, Percentage contribution, Age Grouping etc.
 
-📂 Project Structure
+```📂 Project Structure
 📁 CreditCardDashboard
 │── 📊 PowerBI Report (.pbix)
 │── 📄 README.md
 │── 📁 Dataset (CSV)
-│── 📁 DAX Measure
+│── 📁 DAX Measure```
 
 📁 Dataset Source
 Public credit card transaction dataset (for learning & portfolio use).
