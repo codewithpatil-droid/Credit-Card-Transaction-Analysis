@@ -12,7 +12,7 @@ Dynamic Measures: WOW, YTD, Percentage contribution, Age Grouping etc.
 
 ```📂 Project Structure
 📁 CreditCardDashboard
-│── 📊 PowerBI Report (.pbix)
+│── 📊 PowerBI Report dashboard pdf 
 │── 📄 README.md
 │── 📁 Dataset (CSV)
 │── 📁 DAX Measure```
