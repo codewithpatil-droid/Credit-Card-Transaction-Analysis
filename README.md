@@ -17,8 +17,14 @@ Dynamic Measures: WOW, YTD, Percentage contribution, Age Grouping etc.
 │── 📁 Dataset (CSV)
 │── 📁 DAX Measure```
 
-📁 Dataset Source
-Public credit card transaction dataset (for learning & portfolio use).
+## Key Decisions & Tradeoffs
+- Used a public Kaggle credit card transaction dataset for portfolio learning purposes
+- Chose DAX measures for trend analysis (WOW, YTD) instead of pre-aggregating in SQL, to keep the dashboard dynamic and interactive for end users
+- Segmented customers by category, education, and employment type to surface the most actionable revenue drivers rather than reporting raw totals alone
+
+## Limitations
+- Dataset is static and does not reflect real-time transaction data
+- Customer segmentation is based on available demographic fields only; deeper behavioral segmentation would require additional data
 
 Insights You Can Draw:
 Which card category generates maximum revenue
